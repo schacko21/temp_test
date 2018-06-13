@@ -7,3 +7,5 @@ test repo
 * preview
 
 [GitHub](http://github.com/schacko21) 
+
+Change to ReadMe via GitHub
